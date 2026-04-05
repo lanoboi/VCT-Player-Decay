@@ -1,0 +1,487 @@
+map,Team,Pistol Won,Eco (won),Semi-eco (won),Semi-buy (won),Full buy(won),match_id,tournament
+Split,EDG,1,3 (1),2 (0),5 (2),24 (15),448598,bangkok
+Split,TL,1,3 (1),2 (1),4 (2),25 (12),448598,bangkok
+Pearl,EDG,1,3 (1),1 (1),2 (2),13 (9),448598,bangkok
+Pearl,TL,1,2 (1),2 (0),6 (1),9 (4),448598,bangkok
+All Maps,EDG,2,6 (2),3 (1),7 (4),37 (24),448598,bangkok
+All Maps,TL,2,5 (2),4 (1),10 (3),34 (16),448598,bangkok
+Lotus,DRX,2,2 (2),0 (0),5 (4),9 (7),448600,bangkok
+Lotus,SEN,0,4 (0),1 (0),6 (1),5 (2),448600,bangkok
+Haven,DRX,1,3 (1),1 (0),5 (4),14 (8),448600,bangkok
+Haven,SEN,1,3 (1),2 (0),5 (3),13 (6),448600,bangkok
+All Maps,DRX,3,5 (3),1 (0),10 (8),23 (15),448600,bangkok
+All Maps,SEN,1,7 (1),3 (0),11 (4),18 (8),448600,bangkok
+Fracture,VIT,1,3 (1),0 (0),4 (2),16 (10),448599,bangkok
+Fracture,T1,1,4 (1),1 (0),6 (3),12 (6),448599,bangkok
+Bind,VIT,1,3 (1),1 (1),5 (3),13 (8),448599,bangkok
+Bind,T1,1,3 (1),4 (1),3 (1),12 (6),448599,bangkok
+All Maps,VIT,2,6 (2),1 (1),9 (5),29 (18),448599,bangkok
+All Maps,T1,2,7 (2),5 (1),9 (4),24 (12),448599,bangkok
+Lotus,G2,1,3 (1),0 (0),4 (3),14 (9),448597,bangkok
+Lotus,TE,1,3 (1),1 (0),8 (5),9 (2),448597,bangkok
+Abyss,G2,2,2 (2),1 (0),4 (3),9 (8),448597,bangkok
+Abyss,TE,0,4 (0),0 (0),4 (0),8 (3),448597,bangkok
+All Maps,G2,3,5 (3),1 (0),8 (6),23 (17),448597,bangkok
+All Maps,TE,1,7 (1),1 (0),12 (5),17 (5),448597,bangkok
+Bind,DRX,1,3 (1),2 (1),5 (2),11 (4),449000,bangkok
+Bind,VIT,1,3 (1),0 (0),5 (4),13 (8),449000,bangkok
+Abyss,DRX,1,5 (1),1 (1),3 (1),15 (10),449000,bangkok
+Abyss,VIT,1,2 (1),2 (1),8 (5),12 (4),449000,bangkok
+All Maps,DRX,1,3 (1),1 (1),5 (2),15 (7),449000,bangkok
+All Maps,VIT,1,3 (1),2 (2),3 (1),16 (9),449000,bangkok
+Pearl,EDG,2,2 (2),1 (0),8 (4),23 (10),449001,bangkok
+Pearl,G2,0,5 (0),2 (2),3 (2),24 (14),449001,bangkok
+Bind,EDG,2,2 (2),2 (0),5 (2),12 (9),449001,bangkok
+Bind,G2,0,3 (0),1 (0),6 (3),11 (5),449001,bangkok
+All Maps,EDG,2,3 (2),0 (0),4 (3),10 (8),449001,bangkok
+All Maps,G2,0,3 (0),2 (0),5 (2),7 (2),449001,bangkok
+Lotus,T1,1,3 (2),0 (0),3 (3),10 (8),449002,bangkok
+Lotus,TE,1,4 (1),1 (0),5 (0),6 (2),449002,bangkok
+Haven,T1,2,2 (2),1 (1),4 (2),14 (8),449002,bangkok
+Haven,TE,0,4 (1),3 (0),1 (1),13 (6),449002,bangkok
+All Maps,T1,3,5 (4),1 (1),7 (5),24 (16),449002,bangkok
+All Maps,TE,1,8 (2),4 (0),6 (1),19 (8),449002,bangkok
+Lotus,TL,1,3 (1),0 (0),8 (2),9 (4),449003,bangkok
+Lotus,SEN,1,3 (1),1 (0),8 (5),8 (7),449003,bangkok
+Abyss,TL,2,2 (2),1 (0),6 (3),21 (11),449003,bangkok
+Abyss,SEN,0,4 (0),0 (0),4 (3),22 (11),449003,bangkok
+All Maps,TL,2,2 (2),0 (0),4 (4),8 (7),449003,bangkok
+All Maps,SEN,0,3 (0),1 (0),6 (1),4 (0),449003,bangkok
+Fracture,T1,1,3 (1),2 (0),2 (1),17 (11),449004,bangkok
+Fracture,DRX,1,3 (1),2 (0),6 (5),13 (5),449004,bangkok
+Pearl,T1,2,2 (2),1 (0),5 (4),9 (7),449004,bangkok
+Pearl,DRX,0,4 (0),0 (0),4 (1),9 (3),449004,bangkok
+All Maps,T1,3,5 (3),3 (0),7 (5),26 (18),449004,bangkok
+All Maps,DRX,1,7 (1),2 (0),10 (6),22 (8),449004,bangkok
+Haven,G2,1,3 (1),1 (1),4 (4),10 (7),449005,bangkok
+Haven,TL,1,3 (1),0 (0),8 (2),7 (2),449005,bangkok
+Lotus,G2,1,3 (1),1 (1),2 (1),14 (10),449005,bangkok
+Lotus,TL,1,3 (1),3 (0),8 (4),6 (2),449005,bangkok
+All Maps,G2,2,6 (2),2 (2),6 (5),24 (17),449005,bangkok
+All Maps,TL,2,6 (2),3 (0),16 (6),13 (4),449005,bangkok
+Split,EDG,2,2 (2),1 (0),5 (3),12 (8),449008,bangkok
+Split,T1,0,3 (0),1 (0),7 (3),9 (4),449008,bangkok
+Bind,EDG,0,4 (0),1 (1),3 (1),11 (4),449008,bangkok
+Bind,T1,2,2 (2),2 (2),6 (4),9 (5),449008,bangkok
+All Maps,EDG,0,4 (0),2 (0),3 (3),15 (10),449008,bangkok
+All Maps,T1,2,2 (2),3 (2),8 (3),11 (4),449008,bangkok
+Bind,VIT,2,2 (2),1 (0),6 (4),19 (7),449009,bangkok
+Bind,G2,0,3 (0),2 (0),5 (2),18 (13),449009,bangkok
+Lotus,VIT,0,4 (0),1 (1),4 (1),13 (7),449009,bangkok
+Lotus,G2,2,2 (2),0 (0),6 (4),14 (7),449009,bangkok
+All Maps,VIT,2,6 (2),2 (1),10 (5),32 (14),449009,bangkok
+All Maps,G2,2,5 (2),2 (0),11 (6),32 (20),449009,bangkok
+Lotus,EDG,1,3 (1),1 (0),5 (2),12 (5),449010,bangkok
+Lotus,G2,1,3 (1),1 (0),3 (2),14 (10),449010,bangkok
+Split,EDG,1,3 (1),2 (0),6 (3),9 (3),449010,bangkok
+Split,G2,1,3 (1),0 (0),4 (2),13 (10),449010,bangkok
+All Maps,EDG,2,6 (2),3 (0),11 (5),21 (8),449010,bangkok
+All Maps,G2,2,6 (2),1 (0),7 (4),27 (20),449010,bangkok
+Lotus,T1,1,3 (2),1 (0),4 (1),18 (9),449012,bangkok
+Lotus,VIT,1,3 (1),2 (0),6 (2),15 (11),449012,bangkok
+Haven,T1,2,2 (2),0 (0),5 (5),10 (6),449012,bangkok
+Haven,VIT,0,3 (0),1 (0),7 (2),6 (2),449012,bangkok
+All Maps,T1,1,3 (2),1 (0),1 (0),13 (11),449012,bangkok
+All Maps,VIT,1,3 (2),3 (0),4 (1),8 (2),449012,bangkok
+Bind,EDG,1,3 (1),4 (1),4 (0),6 (2),449013,bangkok
+Bind,T1,1,3 (2),0 (0),3 (3),11 (8),449013,bangkok
+Haven,EDG,1,3 (2),2 (0),5 (1),13 (7),449013,bangkok
+Haven,T1,1,3 (2),3 (0),2 (0),15 (11),449013,bangkok
+Fracture,EDG,2,2 (2),1 (1),9 (4),14 (7),449013,bangkok
+Fracture,T1,0,4 (0),1 (1),2 (0),19 (11),449013,bangkok
+Split,EDG,0,4 (0),1 (1),6 (2),7 (2),449013,bangkok
+Split,T1,2,2 (2),1 (0),3 (2),12 (9),449013,bangkok
+All Maps,EDG,4,12 (5),8 (3),24 (7),40 (18),449013,bangkok
+All Maps,T1,4,12 (6),5 (1),10 (5),57 (39),449013,bangkok
+Lotus,G2,1,2 (1),0 (0),6 (6),10 (6),449011,bangkok
+Lotus,T1,1,4 (1),0 (0),7 (2),7 (2),449011,bangkok
+Haven,G2,1,4 (1),1 (0),7 (3),10 (5),449011,bangkok
+Haven,T1,1,3 (1),2 (1),3 (1),14 (10),449011,bangkok
+Abyss,G2,1,3 (1),2 (0),7 (6),12 (6),449011,bangkok
+Abyss,T1,1,3 (1),1 (0),5 (2),15 (8),449011,bangkok
+Split,G2,0,4 (0),2 (0),2 (1),20 (12),449011,bangkok
+Split,T1,2,2 (2),1 (0),7 (4),18 (9),449011,bangkok
+bans,G2,1,3 (1),0 (0),6 (4),21 (9),449011,bangkok
+bans,T1,1,3 (1),2 (1),6 (4),19 (10),449011,bangkok
+All Maps,G2,4,16 (4),5 (0),28 (20),73 (38),449011,bangkok
+All Maps,T1,6,15 (6),6 (2),28 (13),73 (39),449011,bangkok
+Bind,PRX,1,4 (2),0 (0),3 (2),15 (9),542195,paris
+Bind,XLG,1,3 (1),1 (0),8 (3),10 (5),542195,paris
+Sunset,PRX,2,2 (2),1 (0),5 (4),10 (7),542195,paris
+Sunset,XLG,0,4 (0),2 (0),3 (0),9 (5),542195,paris
+All Maps,PRX,3,6 (4),1 (0),8 (6),25 (16),542195,paris
+All Maps,XLG,1,7 (1),3 (0),11 (3),19 (10),542195,paris
+Corrode,GX,1,3 (1),2 (0),4 (1),10 (4),542196,paris
+Corrode,SEN,1,3 (1),0 (0),2 (2),14 (10),542196,paris
+Sunset,GX,1,4 (2),0 (0),1 (0),12 (11),542196,paris
+Sunset,SEN,1,3 (2),0 (0),11 (1),3 (1),542196,paris
+All Maps,GX,1,3 (1),1 (0),4 (3),14 (9),542196,paris
+All Maps,SEN,1,3 (1),1 (0),6 (3),12 (5),542196,paris
+Abyss,NRG,0,4 (0),1 (0),7 (3),20 (14),542207,paris
+Abyss,EDG,2,3 (2),1 (0),5 (2),23 (11),542207,paris
+Corrode,NRG,1,3 (1),1 (0),5 (2),15 (10),542207,paris
+Corrode,EDG,1,3 (1),1 (0),5 (2),15 (8),542207,paris
+All Maps,NRG,1,7 (1),2 (0),12 (5),35 (24),542207,paris
+All Maps,EDG,3,6 (3),2 (0),10 (4),38 (19),542207,paris
+Abyss,TL,0,4 (0),1 (1),6 (0),10 (7),542205,paris
+Abyss,DRX,2,2 (2),0 (0),4 (3),15 (8),542205,paris
+Bind,TL,1,3 (2),1 (0),5 (2),14 (6),542205,paris
+Bind,DRX,1,3 (1),2 (1),2 (1),16 (10),542205,paris
+All Maps,TL,1,7 (2),2 (1),11 (2),24 (13),542205,paris
+All Maps,DRX,3,5 (3),2 (1),6 (4),31 (18),542205,paris
+Lotus,DRG,2,2 (2),2 (0),4 (2),21 (9),542212,paris
+Lotus,T1,0,4 (0),1 (0),4 (1),20 (15),542212,paris
+Sunset,DRG,0,4 (0),1 (1),4 (3),21 (10),542212,paris
+Sunset,T1,2,3 (3),4 (1),4 (3),19 (9),542212,paris
+All Maps,DRG,2,6 (2),3 (1),8 (5),42 (19),542212,paris
+All Maps,T1,2,7 (3),5 (1),8 (4),39 (24),542212,paris
+Corrode,G2,0,4 (1),3 (0),1 (0),15 (9),542211,paris
+Corrode,TH,2,2 (2),2 (0),5 (2),14 (9),542211,paris
+Lotus,G2,1,2 (1),2 (1),9 (3),10 (5),542211,paris
+Lotus,TH,1,3 (1),1 (0),4 (3),15 (9),542211,paris
+corrode,G2,1,6 (2),5 (1),10 (3),25 (14),542211,paris
+corrode,TH,3,5 (3),3 (0),9 (5),29 (18),542211,paris
+Haven,BLG,0,3 (0),1 (0),5 (0),6 (2),542200,paris
+Haven,MIBR,2,2 (2),0 (0),5 (4),8 (7),542200,paris
+Corrode,BLG,0,4 (1),0 (0),5 (3),13 (5),542200,paris
+Corrode,MIBR,2,2 (2),1 (1),4 (3),15 (7),542200,paris
+All Maps,BLG,0,7 (1),1 (0),10 (3),19 (7),542200,paris
+All Maps,MIBR,4,4 (4),1 (1),9 (7),23 (14),542200,paris
+Ascent,RRQ,0,4 (0),1 (0),0 (0),18 (10),542201,paris
+Ascent,FNC,2,2 (2),1 (0),9 (5),11 (6),542201,paris
+Abyss,RRQ,1,3 (1),3 (0),4 (2),10 (4),542201,paris
+Abyss,FNC,1,3 (1),1 (0),6 (5),10 (7),542201,paris
+All Maps,RRQ,1,7 (1),4 (0),4 (2),28 (14),542201,paris
+All Maps,FNC,3,5 (3),2 (0),15 (10),21 (13),542201,paris
+Ascent,PRX,2,3 (2),2 (0),6 (3),13 (6),542197,paris
+Ascent,GX,0,4 (1),0 (0),2 (2),18 (10),542197,paris
+Lotus,PRX,1,3 (1),0 (0),5 (2),15 (10),542197,paris
+Lotus,GX,1,3 (1),3 (1),4 (2),13 (6),542197,paris
+Corrode,PRX,2,2 (2),0 (0),3 (3),14 (8),542197,paris
+Corrode,GX,0,3 (0),2 (1),7 (2),7 (3),542197,paris
+ascent,PRX,5,8 (5),2 (0),14 (8),42 (24),542197,paris
+ascent,GX,1,10 (2),5 (2),13 (6),38 (19),542197,paris
+Haven,DRX,2,2 (2),0 (0),5 (5),10 (6),542208,paris
+Haven,NRG,0,4 (0),1 (0),4 (0),8 (4),542208,paris
+Corrode,DRX,1,3 (2),0 (0),5 (3),16 (6),542208,paris
+Corrode,NRG,1,3 (1),1 (0),6 (3),14 (9),542208,paris
+All Maps,DRX,1,3 (1),2 (0),4 (2),15 (8),542208,paris
+All Maps,NRG,1,4 (1),0 (0),6 (3),14 (9),542208,paris
+Lotus,TH,1,3 (2),1 (0),2 (1),17 (10),542213,paris
+Lotus,T1,1,3 (1),3 (0),3 (1),14 (8),542213,paris
+Sunset,TH,0,4 (0),0 (0),3 (1),17 (12),542213,paris
+Sunset,T1,2,2 (2),1 (0),7 (3),14 (6),542213,paris
+Ascent,TH,1,7 (2),1 (0),5 (2),34 (22),542213,paris
+Ascent,T1,3,5 (3),4 (0),10 (4),28 (14),542213,paris
+Bind,MIBR,1,3 (1),0 (0),2 (2),13 (10),542202,paris
+Bind,FNC,1,3 (1),1 (0),7 (2),7 (2),542202,paris
+Abyss,MIBR,1,4 (1),0 (0),5 (1),11 (5),542202,paris
+Abyss,FNC,1,3 (1),2 (1),3 (2),12 (9),542202,paris
+All Maps,MIBR,0,4 (0),1 (0),6 (3),12 (7),542202,paris
+All Maps,FNC,2,2 (2),2 (1),5 (3),14 (7),542202,paris
+Sunset,TL,0,3 (0),1 (0),6 (3),6 (0),542209,paris
+Sunset,EDG,2,2 (2),1 (0),2 (2),11 (9),542209,paris
+Abyss,TL,1,3 (1),0 (0),1 (1),15 (11),542209,paris
+Abyss,EDG,1,3 (1),2 (0),6 (2),8 (3),542209,paris
+All Maps,TL,0,4 (1),2 (0),2 (2),20 (12),542209,paris
+All Maps,EDG,2,2 (2),1 (1),6 (1),19 (9),542209,paris
+Abyss,XLG,0,4 (1),0 (0),4 (2),15 (7),542198,paris
+Abyss,SEN,2,3 (2),0 (0),5 (3),15 (8),542198,paris
+Lotus,XLG,0,4 (0),1 (0),3 (1),16 (12),542198,paris
+Lotus,SEN,2,2 (2),1 (0),10 (4),11 (5),542198,paris
+Bind,XLG,1,3 (1),1 (1),5 (3),12 (8),542198,paris
+Bind,SEN,1,3 (1),2 (1),4 (1),12 (5),542198,paris
+Corrode,XLG,1,11 (2),2 (1),12 (6),43 (27),542198,paris
+Corrode,SEN,5,8 (5),3 (1),19 (8),38 (18),542198,paris
+Sunset,BLG,2,2 (2),0 (0),9 (5),9 (6),542203,paris
+Sunset,RRQ,0,4 (0),1 (0),1 (0),14 (7),542203,paris
+Lotus,BLG,1,3 (1),1 (0),10 (3),7 (4),542203,paris
+Lotus,RRQ,1,3 (1),2 (1),2 (1),14 (10),542203,paris
+All Maps,BLG,1,3 (1),0 (0),10 (3),4 (0),542203,paris
+All Maps,RRQ,1,3 (1),0 (0),2 (2),12 (10),542203,paris
+Lotus,G2,1,3 (2),0 (0),4 (2),13 (9),542214,paris
+Lotus,DRG,1,4 (1),1 (0),3 (0),12 (6),542214,paris
+Abyss,G2,2,2 (2),1 (0),5 (2),12 (9),542214,paris
+Abyss,DRG,0,4 (0),3 (0),3 (1),10 (6),542214,paris
+All Maps,G2,3,5 (4),1 (0),9 (4),25 (18),542214,paris
+All Maps,DRG,1,8 (1),4 (0),6 (1),22 (12),542214,paris
+Corrode,DRX,1,3 (1),0 (0),6 (4),12 (8),542210,paris
+Corrode,TL,1,3 (1),1 (0),7 (5),10 (2),542210,paris
+Abyss,DRX,2,2 (2),2 (0),4 (2),12 (9),542210,paris
+Abyss,TL,0,4 (0),0 (0),5 (1),11 (6),542210,paris
+All Maps,DRX,3,5 (3),2 (0),10 (6),24 (17),542210,paris
+All Maps,TL,1,7 (1),1 (0),12 (6),21 (8),542210,paris
+Bind,GX,1,3 (1),3 (1),6 (3),14 (9),542199,paris
+Bind,XLG,1,3 (1),0 (0),6 (5),17 (6),542199,paris
+Ascent,GX,2,2 (2),1 (1),7 (3),13 (7),542199,paris
+Ascent,XLG,0,4 (0),0 (0),6 (1),13 (9),542199,paris
+All Maps,GX,3,5 (3),4 (2),13 (6),27 (16),542199,paris
+All Maps,XLG,1,7 (1),0 (0),12 (6),30 (15),542199,paris
+Lotus,T1,1,3 (1),0 (0),6 (2),13 (6),542215,paris
+Lotus,G2,1,3 (1),0 (0),6 (4),13 (8),542215,paris
+Corrode,T1,0,4 (0),4 (2),1 (0),12 (6),542215,paris
+Corrode,G2,2,2 (2),0 (0),6 (3),13 (8),542215,paris
+All Maps,T1,1,7 (1),4 (2),7 (2),25 (12),542215,paris
+All Maps,G2,3,5 (3),0 (0),12 (7),26 (16),542215,paris
+Corrode,MIBR,2,2 (2),0 (0),5 (4),11 (7),542204,paris
+Corrode,RRQ,0,4 (0),1 (0),2 (1),11 (4),542204,paris
+Abyss,MIBR,2,2 (2),0 (0),4 (4),12 (7),542204,paris
+Abyss,RRQ,0,4 (0),1 (0),5 (2),8 (3),542204,paris
+All Maps,MIBR,4,4 (4),0 (0),9 (8),23 (14),542204,paris
+All Maps,RRQ,0,8 (0),2 (0),7 (3),19 (7),542204,paris
+Lotus,PRX,0,4 (1),0 (0),4 (2),16 (10),542265,paris
+Lotus,G2,2,2 (2),3 (1),4 (2),15 (6),542265,paris
+Corrode,PRX,2,2 (2),1 (1),9 (6),16 (4),542265,paris
+Corrode,G2,0,4 (1),1 (0),2 (2),21 (12),542265,paris
+Ascent,PRX,2,2 (2),0 (0),9 (5),13 (6),542265,paris
+Ascent,G2,0,4 (0),3 (0),0 (0),17 (11),542265,paris
+Bind,PRX,4,8 (5),1 (1),22 (13),45 (20),542265,paris
+Bind,G2,2,10 (3),7 (1),6 (4),53 (29),542265,paris
+Haven,FNC,2,2 (2),2 (0),6 (2),14 (9),542264,paris
+Haven,DRX,0,4 (1),3 (0),2 (0),15 (10),542264,paris
+Ascent,FNC,2,2 (2),1 (0),8 (2),10 (4),542264,paris
+Ascent,DRX,0,4 (0),1 (0),1 (1),15 (12),542264,paris
+Abyss,FNC,1,3 (1),0 (0),2 (2),13 (10),542264,paris
+Abyss,DRX,1,2 (1),2 (0),5 (1),9 (3),542264,paris
+All Maps,FNC,5,7 (5),3 (0),16 (6),37 (23),542264,paris
+All Maps,DRX,1,10 (2),6 (0),8 (2),39 (25),542264,paris
+Corrode,TH,1,3 (1),2 (0),5 (5),16 (6),542266,paris
+Corrode,MIBR,1,3 (1),1 (0),1 (1),21 (12),542266,paris
+Sunset,TH,1,3 (1),1 (0),8 (4),7 (1),542266,paris
+Sunset,MIBR,1,2 (1),1 (0),2 (2),14 (10),542266,paris
+Haven,TH,2,6 (2),3 (0),13 (9),23 (7),542266,paris
+Haven,MIBR,2,5 (2),2 (0),3 (3),35 (22),542266,paris
+Haven,NRG,2,2 (2),0 (0),2 (2),10 (9),542267,paris
+Haven,GX,0,3 (0),3 (0),2 (0),6 (1),542267,paris
+Lotus,NRG,0,4 (1),0 (0),0 (0),15 (12),542267,paris
+Lotus,GX,2,2 (2),3 (0),7 (2),7 (2),542267,paris
+All Maps,NRG,2,6 (3),0 (0),2 (2),25 (21),542267,paris
+All Maps,GX,2,5 (2),6 (0),9 (2),13 (3),542267,paris
+Lotus,DRX,2,3 (2),2 (0),5 (2),10 (3),542273,paris
+Lotus,G2,0,3 (0),0 (0),3 (2),14 (11),542273,paris
+Abyss,DRX,1,3 (1),1 (0),3 (1),16 (11),542273,paris
+Abyss,G2,1,4 (1),0 (0),7 (2),12 (7),542273,paris
+All Maps,DRX,1,3 (1),0 (0),3 (1),14 (11),542273,paris
+All Maps,G2,1,4 (1),1 (1),5 (1),10 (4),542273,paris
+Ascent,TH,1,3 (2),0 (0),2 (2),12 (9),542274,paris
+Ascent,GX,1,3 (1),3 (1),6 (1),5 (1),542274,paris
+Lotus,TH,0,4 (1),0 (0),4 (0),8 (2),542274,paris
+Lotus,GX,2,2 (2),1 (0),4 (3),9 (8),542274,paris
+All Maps,TH,1,3 (1),4 (3),4 (3),11 (6),542274,paris
+All Maps,GX,1,3 (1),0 (0),7 (5),12 (3),542274,paris
+Bind,FNC,0,4 (0),1 (0),3 (2),15 (8),542268,paris
+Bind,PRX,2,2 (2),1 (0),8 (5),12 (6),542268,paris
+Haven,FNC,1,3 (2),0 (0),2 (2),12 (9),542268,paris
+Haven,PRX,1,4 (1),1 (0),6 (1),6 (2),542268,paris
+All Maps,FNC,2,2 (2),1 (0),9 (3),10 (8),542268,paris
+All Maps,PRX,0,4 (1),0 (0),4 (0),14 (8),542268,paris
+Abyss,MIBR,1,3 (1),0 (0),3 (2),24 (11),542269,paris
+Abyss,NRG,1,4 (1),0 (0),4 (3),22 (12),542269,paris
+Haven,MIBR,2,2 (2),0 (0),4 (2),11 (9),542269,paris
+Haven,NRG,0,4 (0),2 (0),4 (1),7 (3),542269,paris
+All Maps,MIBR,2,3 (2),1 (0),5 (2),21 (10),542269,paris
+All Maps,NRG,0,5 (1),0 (0),2 (0),23 (15),542269,paris
+Ascent,PRX,1,3 (1),1 (0),5 (4),15 (8),542277,paris
+Ascent,TH,1,3 (1),3 (1),7 (5),11 (4),542277,paris
+Bind,PRX,1,3 (1),2 (0),4 (2),13 (6),542277,paris
+Bind,TH,1,3 (1),2 (2),6 (4),11 (6),542277,paris
+ascent,PRX,1,3 (1),0 (0),4 (3),10 (9),542277,paris
+ascent,TH,1,3 (1),1 (0),6 (1),7 (2),542277,paris
+All Maps,PRX,3,9 (3),3 (0),13 (9),38 (23),542277,paris
+All Maps,TH,3,9 (3),6 (3),19 (10),29 (12),542277,paris
+Sunset,MIBR,1,3 (1),2 (0),6 (4),12 (8),542276,paris
+Sunset,DRX,1,3 (1),1 (0),5 (2),14 (7),542276,paris
+Ascent,MIBR,2,2 (2),3 (2),6 (3),17 (6),542276,paris
+Ascent,DRX,0,5 (1),1 (1),1 (0),21 (13),542276,paris
+All Maps,MIBR,0,3 (0),3 (0),3 (3),14 (7),542276,paris
+All Maps,DRX,2,2 (2),1 (1),7 (4),13 (6),542276,paris
+Ascent,FNC,1,3 (1),1 (1),8 (5),14 (5),542270,paris
+Ascent,NRG,1,4 (1),0 (0),5 (4),17 (9),542270,paris
+Abyss,FNC,1,3 (1),2 (0),5 (1),8 (3),542270,paris
+Abyss,NRG,1,4 (2),0 (0),3 (1),11 (10),542270,paris
+for,FNC,2,6 (2),3 (1),13 (6),22 (8),542270,paris
+for,NRG,2,8 (3),0 (0),8 (5),28 (19),542270,paris
+Ascent,DRX,1,3 (1),1 (0),4 (1),20 (13),542278,paris
+Ascent,PRX,1,3 (1),2 (0),5 (2),18 (10),542278,paris
+Lotus,DRX,2,2 (2),1 (0),6 (4),12 (7),542278,paris
+Lotus,PRX,0,4 (0),1 (0),2 (0),14 (8),542278,paris
+All Maps,DRX,3,5 (3),2 (0),10 (5),32 (20),542278,paris
+All Maps,PRX,1,7 (1),3 (0),7 (2),32 (18),542278,paris
+Sunset,FNC,1,3 (1),1 (0),10 (5),7 (2),542279,paris
+Sunset,DRX,1,3 (1),0 (0),3 (2),15 (10),542279,paris
+Corrode,FNC,1,3 (1),0 (0),2 (2),11 (10),542279,paris
+Corrode,DRX,1,3 (1),3 (0),3 (1),7 (1),542279,paris
+Haven,FNC,0,4 (1),0 (0),2 (1),18 (11),542279,paris
+Haven,DRX,2,2 (2),1 (0),6 (3),15 (6),542279,paris
+Bind,FNC,1,3 (1),0 (0),3 (3),11 (9),542279,paris
+Bind,DRX,1,3 (1),2 (0),5 (2),7 (1),542279,paris
+All Maps,FNC,3,13 (4),1 (0),17 (11),47 (32),542279,paris
+All Maps,DRX,5,11 (5),6 (0),17 (8),44 (18),542279,paris
+Corrode,NRG,1,3 (1),0 (0),1 (1),12 (11),542272,paris
+Corrode,FNC,1,3 (1),1 (0),8 (2),4 (0),542272,paris
+Lotus,NRG,1,3 (1),0 (0),3 (3),13 (9),542272,paris
+Lotus,FNC,1,3 (1),2 (1),5 (3),9 (1),542272,paris
+Abyss,NRG,1,4 (1),1 (0),4 (3),19 (9),542272,paris
+Abyss,FNC,1,3 (1),0 (0),8 (3),17 (11),542272,paris
+Ascent,NRG,1,4 (1),0 (0),4 (3),13 (4),542272,paris
+Ascent,FNC,1,3 (1),2 (1),3 (1),13 (10),542272,paris
+corrode,NRG,0,4 (0),0 (0),1 (1),13 (12),542272,paris
+corrode,FNC,2,2 (2),3 (0),9 (3),4 (0),542272,paris
+ascent,NRG,4,18 (4),1 (0),13 (11),70 (45),542272,paris
+ascent,FNC,6,14 (6),8 (2),33 (12),47 (22),542272,paris
+Pearl,TH,0,3 (0),3 (0),3 (0),5 (1),490309,toronto
+Pearl,PRX,2,2 (2),0 (0),3 (3),9 (8),490309,toronto
+Icebox,TH,0,4 (0),3 (0),1 (0),14 (9),490309,toronto
+Icebox,PRX,2,2 (2),0 (0),7 (3),13 (8),490309,toronto
+All Maps,TH,0,7 (0),6 (0),4 (0),19 (10),490309,toronto
+All Maps,PRX,4,4 (4),0 (0),10 (6),22 (16),490309,toronto
+Icebox,BLG,2,2 (2),1 (0),8 (3),12 (8),490307,toronto
+Icebox,TL,0,4 (0),1 (0),1 (1),17 (9),490307,toronto
+Haven,BLG,0,4 (0),0 (0),3 (2),23 (12),490307,toronto
+Haven,TL,2,2 (2),2 (0),7 (4),19 (10),490307,toronto
+All Maps,BLG,1,3 (1),0 (0),6 (3),14 (9),490307,toronto
+All Maps,TL,1,3 (1),2 (2),5 (1),13 (6),490307,toronto
+Split,SEN,1,3 (1),0 (0),5 (3),16 (9),490308,toronto
+Split,WOL,1,3 (1),1 (0),8 (7),12 (3),490308,toronto
+Lotus,SEN,1,3 (1),1 (0),5 (4),12 (8),490308,toronto
+Lotus,WOL,1,3 (2),1 (0),5 (2),12 (4),490308,toronto
+Pearl,SEN,2,6 (2),1 (0),10 (7),28 (17),490308,toronto
+Pearl,WOL,2,6 (3),2 (0),13 (9),24 (7),490308,toronto
+Sunset,GEN,2,2 (2),1 (0),3 (2),12 (9),490306,toronto
+Sunset,MIBR,0,3 (0),1 (0),7 (2),7 (3),490306,toronto
+Haven,GEN,2,2 (2),0 (0),3 (2),9 (9),490306,toronto
+Haven,MIBR,0,3 (0),2 (0),6 (0),3 (1),490306,toronto
+Pearl,GEN,4,4 (4),1 (0),6 (4),21 (18),490306,toronto
+Pearl,MIBR,0,6 (0),3 (0),13 (2),10 (4),490306,toronto
+Icebox,BLG,2,2 (2),0 (0),6 (3),14 (8),490311,toronto
+Icebox,SEN,0,5 (0),1 (0),4 (3),12 (6),490311,toronto
+Sunset,BLG,1,3 (1),2 (0),6 (3),7 (1),490311,toronto
+Sunset,SEN,1,3 (1),0 (0),3 (3),12 (9),490311,toronto
+Haven,BLG,0,4 (1),0 (0),2 (0),16 (8),490311,toronto
+Haven,SEN,2,3 (2),0 (0),8 (5),11 (6),490311,toronto
+All Maps,BLG,3,9 (4),2 (0),14 (6),37 (17),490311,toronto
+All Maps,SEN,3,11 (3),1 (0),15 (11),35 (21),490311,toronto
+Ascent,PRX,0,4 (0),1 (0),4 (2),15 (9),490310,toronto
+Ascent,GEN,2,2 (2),2 (0),7 (6),13 (5),490310,toronto
+Icebox,PRX,0,4 (0),1 (0),4 (0),7 (3),490310,toronto
+Icebox,GEN,2,2 (2),0 (0),2 (1),12 (10),490310,toronto
+pearl,PRX,0,8 (0),2 (0),8 (2),22 (12),490310,toronto
+pearl,GEN,4,4 (4),2 (0),9 (7),25 (15),490310,toronto
+Pearl,TH,0,4 (1),0 (0),2 (0),17 (9),490312,toronto
+Pearl,WOL,2,4 (2),0 (0),8 (5),11 (6),490312,toronto
+Lotus,TH,1,3 (1),2 (0),5 (3),12 (5),490312,toronto
+Lotus,WOL,1,3 (1),1 (0),3 (2),15 (10),490312,toronto
+All Maps,TH,1,7 (2),2 (0),7 (3),29 (14),490312,toronto
+All Maps,WOL,3,7 (3),1 (0),11 (7),26 (16),490312,toronto
+Icebox,TL,2,2 (2),2 (1),3 (2),12 (8),490313,toronto
+Icebox,MIBR,0,4 (0),0 (0),4 (1),11 (5),490313,toronto
+Sunset,TL,2,2 (2),0 (0),7 (5),11 (6),490313,toronto
+Sunset,MIBR,0,3 (0),3 (0),5 (3),9 (4),490313,toronto
+All Maps,TL,4,4 (4),2 (1),10 (7),23 (14),490313,toronto
+All Maps,MIBR,0,7 (0),3 (0),9 (4),20 (9),490313,toronto
+Ascent,BLG,2,2 (2),2 (0),7 (3),12 (5),490315,toronto
+Ascent,WOL,0,5 (0),0 (0),3 (3),15 (10),490315,toronto
+Split,BLG,0,4 (1),0 (0),8 (2),6 (2),490315,toronto
+Split,WOL,2,3 (2),1 (1),4 (3),10 (7),490315,toronto
+All Maps,BLG,2,6 (3),2 (0),15 (5),18 (7),490315,toronto
+All Maps,WOL,2,8 (2),1 (1),7 (6),25 (17),490315,toronto
+Split,PRX,0,4 (0),2 (1),2 (1),20 (11),490314,toronto
+Split,TL,2,2 (2),2 (1),8 (5),16 (7),490314,toronto
+Sunset,PRX,1,3 (1),0 (0),2 (2),13 (10),490314,toronto
+Sunset,TL,1,3 (1),2 (0),5 (1),8 (3),490314,toronto
+All Maps,PRX,1,3 (1),0 (0),5 (1),18 (12),490314,toronto
+All Maps,TL,1,3 (1),2 (0),7 (2),14 (9),490314,toronto
+Split,G2,2,2 (2),4 (1),5 (2),12 (5),498622,toronto
+Split,PRX,0,4 (0),0 (0),3 (1),16 (12),498622,toronto
+Lotus,G2,0,2 (0),1 (0),8 (5),13 (6),498622,toronto
+Lotus,PRX,2,3 (2),1 (1),7 (5),13 (5),498622,toronto
+Icebox,G2,2,4 (2),5 (1),13 (7),25 (11),498622,toronto
+Icebox,PRX,2,7 (2),1 (1),10 (6),29 (17),498622,toronto
+Sunset,XLG,1,3 (1),3 (0),6 (3),7 (2),498621,toronto
+Sunset,SEN,1,3 (1),0 (0),2 (1),14 (11),498621,toronto
+Lotus,XLG,1,3 (1),2 (0),7 (3),7 (2),498621,toronto
+Lotus,SEN,1,3 (1),1 (1),2 (1),13 (10),498621,toronto
+Haven,XLG,2,6 (2),5 (0),13 (6),14 (4),498621,toronto
+Haven,SEN,2,6 (2),1 (1),4 (2),27 (21),498621,toronto
+Ascent,RRQ,0,4 (0),2 (0),1 (1),17 (10),498623,toronto
+Ascent,WOL,2,3 (2),2 (0),6 (4),13 (7),498623,toronto
+Icebox,RRQ,1,3 (1),1 (0),3 (1),14 (6),498623,toronto
+Icebox,WOL,1,4 (1),2 (0),2 (1),13 (11),498623,toronto
+All Maps,RRQ,1,7 (1),3 (0),4 (2),31 (16),498623,toronto
+All Maps,WOL,3,7 (3),4 (0),8 (5),26 (18),498623,toronto
+Haven,FNC,0,4 (0),0 (0),5 (3),15 (8),498624,toronto
+Haven,GEN,2,2 (2),1 (0),6 (4),15 (7),498624,toronto
+Split,FNC,1,4 (1),0 (0),11 (6),11 (7),498624,toronto
+Split,GEN,1,3 (1),1 (0),4 (1),18 (10),498624,toronto
+All Maps,FNC,2,2 (2),2 (0),8 (3),7 (1),498624,toronto
+All Maps,GEN,0,3 (1),1 (1),0 (0),15 (11),498624,toronto
+Icebox,XLG,1,4 (1),3 (0),4 (0),5 (2),498629,toronto
+Icebox,G2,1,2 (1),0 (0),4 (3),10 (9),498629,toronto
+Haven,XLG,1,3 (1),4 (1),3 (2),11 (4),498629,toronto
+Haven,G2,1,3 (1),1 (0),4 (3),13 (9),498629,toronto
+All Maps,XLG,2,7 (2),7 (1),7 (2),16 (6),498629,toronto
+All Maps,G2,2,5 (2),1 (0),8 (6),23 (18),498629,toronto
+Lotus,RRQ,1,3 (2),2 (0),7 (2),6 (1),498630,toronto
+Lotus,FNC,1,3 (1),1 (1),2 (1),12 (10),498630,toronto
+Haven,RRQ,1,4 (1),0 (0),3 (2),12 (10),498630,toronto
+Haven,FNC,1,3 (1),2 (0),5 (1),9 (4),498630,toronto
+All Maps,RRQ,1,3 (1),4 (0),3 (1),8 (3),498630,toronto
+All Maps,FNC,1,3 (1),0 (0),3 (2),12 (10),498630,toronto
+Split,WOL,1,4 (1),1 (0),5 (3),14 (9),498626,toronto
+Split,GEN,1,2 (1),2 (0),6 (3),14 (7),498626,toronto
+Sunset,WOL,1,4 (2),2 (0),3 (2),13 (9),498626,toronto
+Sunset,GEN,1,3 (2),2 (0),3 (1),14 (6),498626,toronto
+All Maps,WOL,2,8 (3),3 (0),8 (5),27 (18),498626,toronto
+All Maps,GEN,2,5 (3),4 (0),9 (4),28 (13),498626,toronto
+Split,SEN,0,3 (0),1 (1),5 (1),7 (1),498625,toronto
+Split,PRX,2,2 (2),0 (0),7 (6),7 (5),498625,toronto
+Sunset,SEN,1,3 (1),1 (0),7 (5),13 (5),498625,toronto
+Sunset,PRX,1,3 (1),1 (0),2 (1),18 (11),498625,toronto
+Ascent,SEN,1,6 (1),2 (1),12 (6),20 (6),498625,toronto
+Ascent,PRX,3,5 (3),1 (0),9 (7),25 (16),498625,toronto
+Lotus,GEN,1,3 (1),2 (0),5 (2),10 (4),498631,toronto
+Lotus,G2,1,3 (1),0 (0),4 (2),13 (10),498631,toronto
+Haven,GEN,2,2 (2),0 (0),9 (4),13 (7),498631,toronto
+Haven,G2,0,3 (0),1 (0),7 (4),13 (7),498631,toronto
+All Maps,GEN,2,2 (2),1 (0),7 (3),14 (6),498631,toronto
+All Maps,G2,0,3 (0),3 (0),3 (2),15 (11),498631,toronto
+Sunset,SEN,2,2 (2),0 (0),7 (6),13 (5),498632,toronto
+Sunset,FNC,0,4 (0),0 (0),9 (6),9 (3),498632,toronto
+Ascent,SEN,0,4 (0),1 (1),2 (1),13 (5),498632,toronto
+Ascent,FNC,2,2 (2),0 (0),6 (4),12 (7),498632,toronto
+icebox,SEN,1,3 (1),1 (0),8 (4),10 (4),498632,toronto
+icebox,FNC,1,4 (2),1 (1),2 (2),15 (8),498632,toronto
+sunset,SEN,3,9 (3),2 (1),17 (11),36 (14),498632,toronto
+sunset,FNC,3,10 (4),1 (1),17 (12),36 (18),498632,toronto
+Lotus,PRX,1,3 (1),1 (0),4 (2),18 (11),498627,toronto
+Lotus,WOL,1,3 (1),2 (0),3 (2),18 (9),498627,toronto
+Ascent,PRX,1,3 (1),2 (1),4 (3),12 (8),498627,toronto
+Ascent,WOL,1,3 (1),2 (0),3 (1),13 (6),498627,toronto
+lotus,PRX,2,6 (2),3 (1),8 (5),30 (19),498627,toronto
+lotus,WOL,2,6 (2),4 (0),6 (3),31 (15),498627,toronto
+Lotus,G2,0,4 (0),1 (0),3 (0),15 (10),498633,toronto
+Lotus,FNC,2,2 (2),3 (0),7 (5),11 (6),498633,toronto
+Split,G2,2,2 (2),3 (2),7 (3),11 (3),498633,toronto
+Split,FNC,0,4 (1),2 (2),1 (1),16 (9),498633,toronto
+lotus,G2,2,6 (2),4 (2),10 (3),26 (13),498633,toronto
+lotus,FNC,2,6 (3),5 (2),8 (6),27 (15),498633,toronto
+Split,WOL,1,3 (1),3 (1),3 (2),13 (5),498634,toronto
+Split,FNC,1,3 (1),1 (0),3 (2),15 (10),498634,toronto
+Icebox,WOL,1,4 (1),1 (0),5 (1),7 (2),498634,toronto
+Icebox,FNC,1,3 (2),0 (0),2 (1),12 (10),498634,toronto
+Lotus,WOL,0,4 (0),0 (0),2 (0),17 (13),498634,toronto
+Lotus,FNC,2,3 (2),2 (0),8 (4),10 (4),498634,toronto
+Ascent,WOL,1,4 (1),4 (1),3 (1),7 (2),498634,toronto
+Ascent,FNC,1,3 (1),0 (0),4 (4),11 (8),498634,toronto
+and,WOL,3,15 (3),8 (2),13 (4),44 (22),498634,toronto
+and,FNC,5,12 (6),3 (0),17 (11),48 (32),498634,toronto
+Sunset,PRX,0,4 (0),0 (0),3 (0),17 (13),498628,toronto
+Sunset,FNC,2,2 (2),0 (0),9 (4),13 (5),498628,toronto
+Icebox,PRX,1,3 (1),2 (0),5 (2),22 (12),498628,toronto
+Icebox,FNC,1,3 (1),1 (0),3 (1),25 (15),498628,toronto
+Pearl,PRX,0,4 (0),0 (0),1 (0),18 (13),498628,toronto
+Pearl,FNC,2,2 (2),1 (0),8 (3),12 (5),498628,toronto
+Lotus,PRX,1,3 (1),1 (0),7 (4),15 (9),498628,toronto
+Lotus,FNC,1,2 (1),2 (1),5 (2),17 (8),498628,toronto
+Ascent,PRX,2,14 (2),3 (0),16 (6),72 (47),498628,toronto
+Ascent,FNC,6,9 (6),4 (1),25 (10),67 (33),498628,toronto
