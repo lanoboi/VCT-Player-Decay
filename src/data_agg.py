@@ -13,6 +13,7 @@ FILES = [
     "maps_played",
     "teams_picked_agents",
     "players_stats",
+    "tournaments_stages_matches_games_ids"
 ]
 
 os.makedirs("aggregated", exist_ok=True)
