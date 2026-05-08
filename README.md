@@ -3,6 +3,8 @@
 ## Project Overview
 This project presents a comparative machine learning approach to predicting match outcomes in the **Valorant Champions Tour (VCT)**. It was developed as a B-Rank Mission for COMP 3608 - Machine Learning.
 
+Done by: Delano Augustus, Kriston Latoo, Isaiah Hedley
+
 The study uses three chronological slices of VCT professional match data (2023, 2024, and 2025) to train and evaluate models, simulating a real-world predictive environment where historical data is used to forecast future results.
 
 ## Repository Structure
