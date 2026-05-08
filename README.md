@@ -7,6 +7,9 @@ Done by: Delano Augustus, Kriston Latoo, Isaiah Hedley
 
 The study uses three chronological slices of VCT professional match data (2023, 2024, and 2025) to train and evaluate models, simulating a real-world predictive environment where historical data is used to forecast future results.
 
+## Dataset Used:
+https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data
+
 ## Repository Structure
 - `vct_team_prediction.ipynb`: The main Jupyter notebook containing the full analysis, modeling, and evaluation.
 - `aggregated/cleaned_master.csv`: The primary dataset used for training and testing (generated via preprocessing).
