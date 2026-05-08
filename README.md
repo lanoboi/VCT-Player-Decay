@@ -1,105 +1,36 @@
-# Valorant Match Outcome Prediction
+# Predicting Valorant Champions Tour Match Outcomes
 
 ## Project Overview
+This project presents a comparative machine learning approach to predicting match outcomes in the **Valorant Champions Tour (VCT)**. It was developed as a B-Rank Mission for COMP 3608 - Machine Learning.
 
-This project uses machine learning to predict the outcome of professional Valorant Champions Tour matches. The goal is to predict whether Team A will win or lose a match based on historical team performance and match context features.
+The study uses three chronological slices of VCT professional match data (2023, 2024, and 2025) to train and evaluate models, simulating a real-world predictive environment where historical data is used to forecast future results.
 
-The project is framed as a binary classification task:
+## Repository Structure
+- `vct_team_prediction.ipynb`: The main Jupyter notebook containing the full analysis, modeling, and evaluation.
+- `aggregated/cleaned_master.csv`: The primary dataset used for training and testing (generated via preprocessing).
+- `README.md`: Project documentation.
+- `requirements.txt`: List of Python dependencies.
 
-- `1` = Team A wins
-- `0` = Team A loses
+## Key Sections
+1. **Problem Identification**: Formulating the match prediction as a binary classification problem.
+2. **Datasets & Feature Engineering**: Temporal slicing (2023-2024 for training, 2025 for testing) and creation of 13 pre-match features.
+3. **Exploratory Data Analysis (EDA)**: Examining class balance, feature correlations, and distributions.
+4. **Algorithm Selection**: Using Logistic Regression, Random Forest, and XGBoost compared against a Majority Class Baseline.
+5. **Implementation & Training**: Pipeline setup with scaling and hyperparameter tuning.
+6. **Evaluation & Comparative Results**: Analyzing Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
+7. **Sensitivity Analysis**: Testing model robustness to hyperparameter changes.
+8. **Discussion & Conclusion**: Interpretability vs. Performance trade-offs.
 
-The project was completed for COMP 3608 and follows the B-rank project structure, using three yearly Kaggle data subsets and comparing multiple machine learning algorithms.
+## Model Results Summary
+Based on the experimental results:
+- **Best for Interpretability**: Logistic Regression (provides transparent feature weights).
+- **Best for Raw Performance (F1)**: XGBoost.
+- **Baseline**: Majority Class Baseline provides the performance floor.
 
-## Problem Statement
-
-In professional Valorant, match outcomes are influenced by several factors such as team form, historical win rate, map performance, match stakes, and draft related variables. This project investigates whether these historical and contextual features can be used to predict match outcomes before the match is played.
-
-The main research question is:
-
-**Can historical team performance and match context features be used to predict Valorant Champions Tour match outcomes?**
-
-## Dataset
-
-The project uses data from the Kaggle Valorant Champions Tour dataset. The analysis focuses on three recent VCT seasons:
-
-| Dataset | Season | Description |
-|---|---:|---|
-| D1 | 2023 | First yearly subset used for training and analysis |
-| D2 | 2024 | Second yearly subset used for training and validation |
-| D3 | 2025 | Most recent yearly subset used for final testing |
-
-The data was cleaned, aggregated, and transformed into a master dataset for modelling.
-
-## Features Used
-
-The model uses pre-match features only, meaning the features are based on information available before the match takes place. This helps avoid data leakage.
-
-Some of the main engineered features include:
-
-- Historical win rate
-- Historical average team rating
-- Historical map win percentage
-- Win rate difference between Team A and Team B
-- Rating difference between Team A and Team B
-- Map win percentage difference
-- Match stakes
-- Elimination match indicator
-- Grand final indicator
-- Draft related indicators
-
-Differential features were especially important because match prediction depends heavily on the relative strength between both teams.
-
-## Models Used
-
-The project compares the following models:
-
-1. Majority Class Baseline
-2. Logistic Regression
-3. Random Forest
-4. XGBoost
-
-The Majority Class Baseline was used as a simple reference point. The three main machine learning algorithms were compared to evaluate their strengths, weaknesses, and tradeoffs.
-
-## Evaluation Metrics
-
-Model performance was evaluated using:
-
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- ROC AUC
-- Confusion Matrix
-
-ROC AUC was especially important because it shows how well the model separates likely winners from likely losers across different thresholds.
-
-## Experimental Design
-
-A chronological training and testing approach was used to make the experiment more realistic.
-
-The main setup was:
-
-- Train on 2023 and 2024 data
-- Test on 2025 data
-
-Walk-forward validation was also used:
-
-| Fold | Training Data | Testing Data |
-|---|---|---|
-| Fold 1 | 2023 | 2024 |
-| Fold 2 | 2023 and 2024 | 2025 |
-
-This setup prevents the model from learning from future data and better reflects a real match prediction scenario.
-
-## Key Findings
-
-The results showed that historical team performance features can predict Valorant match outcomes better than random guessing.
-
-Main findings:
-
-- Logistic Regression achieved the strongest ROC AUC and was the most interpretable model.
-- XGBoost achieved the strongest F1 score on the final test set.
-- Random Forest captured nonlinear patterns but performed weaker than the other main models.
-- Differential features such as historical win rate difference, rating difference, and map win percentage difference were among the most useful predictors.
-- The Majority Class Baseline had a misleadingly high F1 score because it predicted the same class repeatedly, but its ROC AUC showed no real predictive ability.
+## Installation & Usage
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Open `vct_team_prediction.ipynb` in a Jupyter environment to run the analysis.
