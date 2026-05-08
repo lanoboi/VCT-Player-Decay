@@ -29,8 +29,4 @@ Based on the experimental results:
 
 ## Installation & Usage
 1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open `vct_team_prediction.ipynb` in a Jupyter environment to run the analysis.
+2. Open `vct_team_prediction.ipynb` in a Jupyter environment to run the analysis.
