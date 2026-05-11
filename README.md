@@ -24,7 +24,8 @@ https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data
 5. **Implementation & Training**: Pipeline setup with scaling and hyperparameter tuning.
 6. **Evaluation & Comparative Results**: Analyzing Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
 7. **Sensitivity Analysis**: Testing model robustness to hyperparameter changes.
-8. **Discussion & Conclusion**: Interpretability vs. Performance trade-offs.
+8. **Model Interpretability with SHAP**: Aims to explain the output of the model by quantifying the contribution of each feature to a prediction.
+9. **Discussion & Conclusion**: Interpretability vs. Performance trade-offs.
 
 ## Model Results Summary
 Based on the experimental results:
